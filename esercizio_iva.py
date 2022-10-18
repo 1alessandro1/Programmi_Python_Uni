@@ -16,7 +16,6 @@ def PrendiValoreIVAGiusto():
             numeratore_valore_iva = float(numeratore_valore_iva)
             if numeratore_valore_iva > 0 and numeratore_valore_iva < 99:
                 print("ok, il tuo valore è compreso nell'intervallo corretto")
-
                 return numeratore_valore_iva 
             else:
                 numeratore_valore_iva = float(input("Re-inserisci un valore compreso tra 0 e 99: "))
