@@ -16,3 +16,23 @@ print (1.8e308)
 print (1e-325)
 
 # risultato 0.0
+
+y = abs(-10)
+
+print(y)
+
+y = round (7.526)
+
+print(y)
+
+y = round (7.526,2)
+
+print(y)
+
+y = min (5, 2.1, 3, 7.4)
+
+print(y)
+
+y = max (-1.3, 7, 6.9)
+
+print (y)
