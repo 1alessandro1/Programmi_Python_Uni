@@ -1,0 +1,18 @@
+# Numeri reali in python
+
+
+print (0.129849184918491829381948912849128419248912849218491842198492184921840189401840)
+
+# risultato 0.12984918491849182
+
+print (3.72e5)
+
+# risultato 372000.0
+
+print (1.8e308)
+
+# risultato = inf
+
+print (1e-325)
+
+# risultato 0.0
