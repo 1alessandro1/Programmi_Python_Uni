@@ -1,6 +1,6 @@
 altezza = float(input("Dammi l'altezza: "))
 base = float(input("Dammi la base: "))
 
-Area = base * (altezza / 2)
+Area = base * altezza
 
-print ("L'area del triangolo vale:", (Area))
+print ("L'area del rettangolo vale:", (Area))

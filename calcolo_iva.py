@@ -13,7 +13,7 @@ def PrendiPrezzoLordoGiusto():
     return float(prezzo_con_iva)
 
 def PrendiValoreIVAGiusto():
-    numeratore_valore_iva = input("Inserisci il valore del numeratore dell'IVA: ")
+    numeratore_valore_iva = input("Inserisci l'IVA: ")
     while True:
         try:
             numeratore_valore_iva = float(numeratore_valore_iva)
@@ -29,7 +29,7 @@ def PrendiValoreIVAGiusto():
 
 valore_netto = (PrendiPrezzoLordoGiusto())/(1 + PrendiValoreIVAGiusto() / 100)
 
-print(valore_netto)
+print("Allora il valore netto del prodotto è", valore_netto)
 
 
 # while numeratore_valore_iva < 0 or numeratore_valore_iva > 99:
