@@ -1,9 +1,0 @@
-http://gs.ing.univaq.it/Fondamenti/Slide/07FI_Funzioni_S.pdf
-http://gs.ing.univaq.it/Fondamenti/Slide/03FI_Architettura_S.pdf
-http://gs.ing.univaq.it/Fondamenti/Slide/08FI_Complessita_S.pdf
-http://gs.ing.univaq.it/Fondamenti/Slide/00FI_Intro_CorsoFI_S.pdf
-http://gs.ing.univaq.it/Fondamenti/Slide/01FI_Intro_Info_S.pdf
-http://gs.ing.univaq.it/Fondamenti/Slide/09FI_Algoritmi_S.pdf
-http://gs.ing.univaq.it/Fondamenti/Slide/04FI_Python_variabili_tipi_S.pdf
-http://gs.ing.univaq.it/Fondamenti/Slide/06FI_Tipi_strutturati_S.pdf
-http://gs.ing.univaq.it/Fondamenti/Slide/05FI_Python_costrutti_S.pdf
