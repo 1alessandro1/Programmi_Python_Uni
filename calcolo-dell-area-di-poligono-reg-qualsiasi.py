@@ -18,4 +18,3 @@ area = (perimetro * apotema) / 2
 
 
 print ("In base ai dati inseriti, l'area del poligono regolare è di", area, "cm^2")
-
