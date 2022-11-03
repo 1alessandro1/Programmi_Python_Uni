@@ -2,7 +2,9 @@ from turtle import Turtle
 
 tarta = Turtle()
 
-tarta.pen(5)
+tarta.pensize(5)
 tarta.pencolor("blue")
 
 tarta.forward(100)
+
+tarta.Screen().exitonclick()a

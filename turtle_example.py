@@ -1,9 +1,10 @@
-from turtle import Turtle
+import turtle
 
-tarta = Turtle()
 
-tarta.pensize(5)
-tarta.pencolor("blue")
-
-tarta.forward(100)
-turtle.done()
+#Draw a square
+for i in range(4):
+    turtle.forward(200)
+    turtle.left(90)
+    
+#calling for the mainloop()
+turtle.mainloop()
