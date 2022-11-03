@@ -10,3 +10,11 @@ for i in range(len(binString)):
     ris += str(binString[i])
  
 print(ris)
+
+
+# Altro modo per fare la stessa cosa
+
+
+n = int(input("Inserisci n: "))
+
+print(bin(n))
