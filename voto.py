@@ -1,5 +1,3 @@
-from math import *
-
 votoNormale = input("Inserire il voto: ")
 
 if len(votoNormale) == 1:
