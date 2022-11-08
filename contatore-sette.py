@@ -1,4 +1,4 @@
-# controlla se è divisibile per 7 e se contiene la cifra 7
+# Conta col buzz se ha 7 o contiene la cifra 7
 n=0
 
 while True:
