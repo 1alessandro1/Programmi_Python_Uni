@@ -1,3 +1,4 @@
+
 valore_di_x = float(input("Dammi il numero di ore: "))
 
 valore_della_metà = x/2

@@ -1,0 +1,23 @@
+Argomenti del primo parziale
+
+# Il sistema operativo
+
+Le applicazioni possono accedere solo ad un sottoinsieme ridotto di risorse, mentre l'OS ha accesso a tutto
+
+Time sharing 
+
+
+conversione dei numeri
+domanda URM 
+qualcosa di programmazione
+qualcosa di python
+
+
+la sua idea è farlo giovedi non questo ma quello dopo e venerdi
+
+
+indicativamente tra 15 giorni facciamo questa prova, la divideremo in 2 giorni (la prima metà e la seconda)
+
+il secondo compito sarà rivolto più alla programmazione
+
+
