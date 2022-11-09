@@ -7,9 +7,3 @@ while True:
         print("BUZZ")
     else:
         print(n)
-
-
-
-
-
-
