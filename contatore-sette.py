@@ -2,8 +2,16 @@
 n=0
 
 while True:
-    n = n + 1  
+    n = n + 1
     if "7" in str(n) or n % 7 == 0:
         print("BUZZ")
     else:
-        print(n)
+        print(n) 
+
+#for n in range(0,100):
+#    n = n + 1  
+#    if "7" in str(n) or n % 7 == 0:
+#        print("BUZZ")
+#    else:
+#        print(n)
+#
