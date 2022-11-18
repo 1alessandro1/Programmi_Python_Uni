@@ -10,4 +10,3 @@ while numeronaturale != 0:
     resto = (numeronaturale % 2)
     print(resto)
     numeronaturale = numeronaturale // 2
-
