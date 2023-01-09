@@ -1,0 +1,1 @@
+# data una lista di numeri togliere elementi in base ad un criterio

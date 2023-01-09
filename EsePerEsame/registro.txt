@@ -1,0 +1,3 @@
+Alberto 30
+Barbara 20
+Carlo 10
